@@ -1,0 +1,6 @@
+1) Requirement analysis
+2) Test planning
+3) Test design
+4) Environment setup
+5) Test execution
+6) Test Cycle closer
